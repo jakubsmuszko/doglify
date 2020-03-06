@@ -1,0 +1,66 @@
+@font-face {
+  font-family: "Montserrat-Italic";
+  src: url("./Montserrat-BlackItalic.ttf"),
+    url("./Montserrat-BlackItalic.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: "Montserrat-Regular";
+  src: url("./Montserrat-Regular.ttf"),
+    url("./Montserrat-Regular.ttf") format("ttf");
+}
+body {
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+
+  src: local("Montserrat-Black"), url("Montserrat-Black.ttf") format("ttf");
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: "Courier New", Courier, monospace;
+
+  background: linear-gradient(to right, #271c19, #55423d);
+}
+
+button {
+  cursor: pointer;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.custom-brown {
+  font-family: "Montserrat-Regular";
+  font-weight: bold;
+  color: #33272a;
+}
+
+.custom-beige {
+  font-family: "Montserrat-Regular";
+  font-weight: 700;
+  color: #fff3ec;
+}
+
+.custom-dbrown {
+  font-family: "Montserrat-Regular";
+  font-weight: bold;
+  color: #140d0b;
+  margin: 10px;
+}
+
+.montreg {
+  font-family: "Montserrat-Regular";
+}
+
+.pink {
+  background-color: #fff3ec;
+  border-color: #33272a;
+  border-radius: 2px;
+  border-width: 2px;
+}
+
+.button {
+  background-color: #ffc0ad;
+  color: #271c19;
+}

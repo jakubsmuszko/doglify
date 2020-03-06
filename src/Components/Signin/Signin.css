@@ -1,0 +1,21 @@
+.pink {
+  background-color: #fff3ec;
+  border-color: #33272a;
+  border-radius: 2px;
+  border-width: 2px;
+}
+
+.custom-brown {
+  font-family: "Montserrat-Regular";
+  font-weight: bold;
+  color: #33272a;
+}
+
+.button {
+  background-color: #ffc0ad;
+  color: #271c19;
+}
+
+.wrongCred {
+  visibility: hidden;
+}

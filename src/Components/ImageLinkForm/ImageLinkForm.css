@@ -1,0 +1,11 @@
+.form {
+  width: 700px;
+}
+
+.myButton {
+  background-color: #ffc0ad;
+  border-color: #ffc0ad;
+  color: #271c19;
+  font-family: "Montserrat-Regular";
+  font-weight: 700;
+}
