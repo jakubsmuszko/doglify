@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/doglify/static/css/main.3975f633.chunk.css",
+    "main.js": "/doglify/static/js/main.e4044d61.chunk.js",
+    "main.js.map": "/doglify/static/js/main.e4044d61.chunk.js.map",
+    "runtime-main.js": "/doglify/static/js/runtime-main.c0ee33cc.js",
+    "runtime-main.js.map": "/doglify/static/js/runtime-main.c0ee33cc.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/doglify/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.32715b0d.chunk.js": "/doglify/static/js/2.32715b0d.chunk.js",
+    "static/js/2.32715b0d.chunk.js.map": "/doglify/static/js/2.32715b0d.chunk.js.map",
+    "index.html": "/doglify/index.html",
+    "precache-manifest.0d47e63072be33e2f0c7c6bf7646a8d8.js": "/doglify/precache-manifest.0d47e63072be33e2f0c7c6bf7646a8d8.js",
+    "service-worker.js": "/doglify/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/doglify/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.3975f633.chunk.css.map": "/doglify/static/css/main.3975f633.chunk.css.map",
+    "static/media/index.css": "/doglify/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/borys5.88395bfe.png": "/doglify/static/media/borys5.88395bfe.png",
+    "static/media/doglify-logo.d665c382.png": "/doglify/static/media/doglify-logo.d665c382.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0ee33cc.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.32715b0d.chunk.js",
+    "static/css/main.3975f633.chunk.css",
+    "static/js/main.e4044d61.chunk.js"
+  ]
+}
